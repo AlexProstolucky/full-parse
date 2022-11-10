@@ -1,0 +1,240 @@
+[
+    {
+        "Number": "036",
+        "Gloval_code": "AUD",
+        "Amount": "1",
+        "Name": "Австралійський долар",
+        "Course": "23,6654"
+    },
+    {
+        "Number": "944",
+        "Gloval_code": "AZN",
+        "Amount": "1",
+        "Name": "Азербайджанський манат",
+        "Course": "21,554"
+    },
+    {
+        "Number": "933",
+        "Gloval_code": "BYN",
+        "Amount": "1",
+        "Name": "Білоруський рубль",
+        "Course": "13,2919"
+    },
+    {
+        "Number": "975",
+        "Gloval_code": "BGN",
+        "Amount": "1",
+        "Name": "Болгарський лев",
+        "Course": "18,7888"
+    },
+    {
+        "Number": "410",
+        "Gloval_code": "KRW",
+        "Amount": "100",
+        "Name": "Вона",
+        "Course": "2,6791"
+    },
+    {
+        "Number": "344",
+        "Gloval_code": "HKD",
+        "Amount": "1",
+        "Name": "Гонконгівський долар",
+        "Course": "4,6587"
+    },
+    {
+        "Number": "208",
+        "Gloval_code": "DKK",
+        "Amount": "1",
+        "Name": "Данська крона",
+        "Course": "4,9406"
+    },
+    {
+        "Number": "840",
+        "Gloval_code": "USD",
+        "Amount": "1",
+        "Name": "Долар США",
+        "Course": "36,5686"
+    },
+    {
+        "Number": "978",
+        "Gloval_code": "EUR",
+        "Amount": "1",
+        "Name": "Євро",
+        "Course": "36,7496"
+    },
+    {
+        "Number": "818",
+        "Gloval_code": "EGP",
+        "Amount": "1",
+        "Name": "Єгипетський фунт",
+        "Course": "1,5005"
+    },
+    {
+        "Number": "392",
+        "Gloval_code": "JPY",
+        "Amount": "10",
+        "Name": "Єна",
+        "Course": "2,5086"
+    },
+    {
+        "Number": "985",
+        "Gloval_code": "PLN",
+        "Amount": "1",
+        "Name": "Злотий",
+        "Course": "7,8185"
+    },
+    {
+        "Number": "356",
+        "Gloval_code": "INR",
+        "Amount": "10",
+        "Name": "Індійська рупія",
+        "Course": "4,4901"
+    },
+    {
+        "Number": "124",
+        "Gloval_code": "CAD",
+        "Amount": "1",
+        "Name": "Канадський долар",
+        "Course": "27,2068"
+    },
+    {
+        "Number": "191",
+        "Gloval_code": "HRK",
+        "Amount": "1",
+        "Name": "Куна",
+        "Course": "4,8731"
+    },
+    {
+        "Number": "484",
+        "Gloval_code": "MXN",
+        "Amount": "1",
+        "Name": "Мексиканське песо",
+        "Course": "1,87"
+    },
+    {
+        "Number": "498",
+        "Gloval_code": "MDL",
+        "Amount": "1",
+        "Name": "Молдовський лей",
+        "Course": "1,894"
+    },
+    {
+        "Number": "376",
+        "Gloval_code": "ILS",
+        "Amount": "1",
+        "Name": "Новий ізраїльський шекель",
+        "Course": "10,3112"
+    },
+    {
+        "Number": "554",
+        "Gloval_code": "NZD",
+        "Amount": "1",
+        "Name": "Новозеландський долар",
+        "Course": "21,5974"
+    },
+    {
+        "Number": "578",
+        "Gloval_code": "NOK",
+        "Amount": "1",
+        "Name": "Норвезька крона",
+        "Course": "3,561"
+    },
+    {
+        "Number": "710",
+        "Gloval_code": "ZAR",
+        "Amount": "1",
+        "Name": "Ренд",
+        "Course": "2,0555"
+    },
+    {
+        "Number": "643",
+        "Gloval_code": "RUB",
+        "Amount": "10",
+        "Name": "Російський рубль",
+        "Course": "5,9739"
+    },
+    {
+        "Number": "946",
+        "Gloval_code": "RON",
+        "Amount": "1",
+        "Name": "Румунський лей",
+        "Course": "7,4919"
+    },
+    {
+        "Number": "360",
+        "Gloval_code": "IDR",
+        "Amount": "1000",
+        "Name": "Рупія",
+        "Course": "2,3355"
+    },
+    {
+        "Number": "702",
+        "Gloval_code": "SGD",
+        "Amount": "1",
+        "Name": "Сінгапурський долар",
+        "Course": "26,1298"
+    },
+    {
+        "Number": "960",
+        "Gloval_code": "XDR",
+        "Amount": "1",
+        "Name": "СПЗ (спеціальні права запозичення)",
+        "Course": "47,1827"
+    },
+    {
+        "Number": "398",
+        "Gloval_code": "KZT",
+        "Amount": "100",
+        "Name": "Теньге",
+        "Course": "7,8357"
+    },
+    {
+        "Number": "949",
+        "Gloval_code": "TRY",
+        "Amount": "1",
+        "Name": "Турецька ліра",
+        "Course": "1,9657"
+    },
+    {
+        "Number": "348",
+        "Gloval_code": "HUF",
+        "Amount": "100",
+        "Name": "Форинт",
+        "Course": "9,1091"
+    },
+    {
+        "Number": "826",
+        "Gloval_code": "GBP",
+        "Amount": "1",
+        "Name": "Фунт стерлінгів",
+        "Course": "41,8912"
+    },
+    {
+        "Number": "203",
+        "Gloval_code": "CZK",
+        "Amount": "1",
+        "Name": "Чеська крона",
+        "Course": "1,5106"
+    },
+    {
+        "Number": "752",
+        "Gloval_code": "SEK",
+        "Amount": "1",
+        "Name": "Шведська крона",
+        "Course": "3,3881"
+    },
+    {
+        "Number": "756",
+        "Gloval_code": "CHF",
+        "Amount": "1",
+        "Name": "Швейцарський франк",
+        "Course": "37,2124"
+    },
+    {
+        "Number": "156",
+        "Gloval_code": "CNY",
+        "Amount": "1",
+        "Name": "Юань Женьміньбі",
+        "Course": "5,0418"
+    }
+]

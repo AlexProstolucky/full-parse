@@ -1,0 +1,1002 @@
+[
+    {
+        "Name": "Bitcoin",
+        "Tiker": "BTC",
+        "Price_USD": "17.447,2",
+        "Market_capital": " 341,16B $ ",
+        "Volume_24": " 99,02B $ ",
+        "Volume_market": "55,57%",
+        "Change_price_24h": " +2,93% ",
+        "Change_price_7d": " -12,31% "
+    },
+    {
+        "Name": "Ethereum",
+        "Tiker": "ETH",
+        "Price_USD": "1.273,55",
+        "Market_capital": " 161,03B $ ",
+        "Volume_24": " 34,29B $ ",
+        "Volume_market": "19,25%",
+        "Change_price_24h": " +8,41% ",
+        "Change_price_7d": " -14,71% "
+    },
+    {
+        "Name": "Tether",
+        "Tiker": "USDT",
+        "Price_USD": "0,9991",
+        "Market_capital": " 69,52B $ ",
+        "Volume_24": " 135,47B $ ",
+        "Volume_market": "76,03%",
+        "Change_price_24h": " -0,04% ",
+        "Change_price_7d": " -0,14% "
+    },
+    {
+        "Name": "BNB",
+        "Tiker": "BNB",
+        "Price_USD": "301,18",
+        "Market_capital": " 49,14B $ ",
+        "Volume_24": " 2,87B $ ",
+        "Volume_market": "1,61%",
+        "Change_price_24h": " +3,61% ",
+        "Change_price_7d": " -6,55% "
+    },
+    {
+        "Name": "USD Coin",
+        "Tiker": "USDC",
+        "Price_USD": "1,0012",
+        "Market_capital": " 43,51B $ ",
+        "Volume_24": " 11,53B $ ",
+        "Volume_market": "6,47%",
+        "Change_price_24h": " 0% ",
+        "Change_price_7d": " +0,02% "
+    },
+    {
+        "Name": "Binance USD",
+        "Tiker": "BUSD",
+        "Price_USD": "1,0017",
+        "Market_capital": " 22,95B $ ",
+        "Volume_24": " 22,65B $ ",
+        "Volume_market": "12,71%",
+        "Change_price_24h": " +0,01% ",
+        "Change_price_7d": " +0,14% "
+    },
+    {
+        "Name": "XRP",
+        "Tiker": "XRP",
+        "Price_USD": "0,37738",
+        "Market_capital": " 19,50B $ ",
+        "Volume_24": " 3,77B $ ",
+        "Volume_market": "2,12%",
+        "Change_price_24h": " +4,55% ",
+        "Change_price_7d": " -14,90% "
+    },
+    {
+        "Name": "Cardano",
+        "Tiker": "ADA",
+        "Price_USD": "0,361",
+        "Market_capital": " 12,74B $ ",
+        "Volume_24": " 1,63B $ ",
+        "Volume_market": "0,92%",
+        "Change_price_24h": " +3,72% ",
+        "Change_price_7d": " -6,11% "
+    },
+    {
+        "Name": "Dogecoin",
+        "Tiker": "DOGE",
+        "Price_USD": "0,086794",
+        "Market_capital": " 11,94B $ ",
+        "Volume_24": " 2,89B $ ",
+        "Volume_market": "1,62%",
+        "Change_price_24h": " +4,69% ",
+        "Change_price_7d": " -30,81% "
+    },
+    {
+        "Name": "Polygon",
+        "Tiker": "MATIC",
+        "Price_USD": "1,081",
+        "Market_capital": " 9,79B $ ",
+        "Volume_24": " 2,18B $ ",
+        "Volume_market": "1,22%",
+        "Change_price_24h": " +29,98% ",
+        "Change_price_7d": " +17,58% "
+    },
+    {
+        "Name": "Polkadot",
+        "Tiker": "DOT",
+        "Price_USD": "5,919",
+        "Market_capital": " 6,87B $ ",
+        "Volume_24": " 712,24M $ ",
+        "Volume_market": "0,40%",
+        "Change_price_24h": " -0,01% ",
+        "Change_price_7d": " -6,45% "
+    },
+    {
+        "Name": "Solana",
+        "Tiker": "SOL",
+        "Price_USD": "16,734",
+        "Market_capital": " 6,41B $ ",
+        "Volume_24": " 4,77B $ ",
+        "Volume_market": "2,68%",
+        "Change_price_24h": " +0,37% ",
+        "Change_price_7d": " -43,43% "
+    },
+    {
+        "Name": "Dai",
+        "Tiker": "DAI",
+        "Price_USD": "1,0004",
+        "Market_capital": " 5,86B $ ",
+        "Volume_24": " 1,18B $ ",
+        "Volume_market": "0,66%",
+        "Change_price_24h": " +0,05% ",
+        "Change_price_7d": " +0,13% "
+    },
+    {
+        "Name": "Shiba Inu",
+        "Tiker": "SHIB",
+        "Price_USD": "0,000010",
+        "Market_capital": " 5,62B $ ",
+        "Volume_24": " 696,76M $ ",
+        "Volume_market": "0,39%",
+        "Change_price_24h": " +7,01% ",
+        "Change_price_7d": " -15,06% "
+    },
+    {
+        "Name": "TRON",
+        "Tiker": "TRX",
+        "Price_USD": "0,057812",
+        "Market_capital": " 5,44B $ ",
+        "Volume_24": " 1,77B $ ",
+        "Volume_market": "0,99%",
+        "Change_price_24h": " -0,69% ",
+        "Change_price_7d": " -4,63% "
+    },
+    {
+        "Name": "Avalanche",
+        "Tiker": "AVAX",
+        "Price_USD": "15,31",
+        "Market_capital": " 4,71B $ ",
+        "Volume_24": " 712,18M $ ",
+        "Volume_market": "0,40%",
+        "Change_price_24h": " +12,82% ",
+        "Change_price_7d": " -14,55% "
+    },
+    {
+        "Name": "Uniswap",
+        "Tiker": "UNI",
+        "Price_USD": "5,6308",
+        "Market_capital": " 4,41B $ ",
+        "Volume_24": " 363,98M $ ",
+        "Volume_market": "0,20%",
+        "Change_price_24h": " +3,91% ",
+        "Change_price_7d": " -18,97% "
+    },
+    {
+        "Name": "Litecoin",
+        "Tiker": "LTC",
+        "Price_USD": "58,49",
+        "Market_capital": " 4,26B $ ",
+        "Volume_24": " 1,85B $ ",
+        "Volume_market": "1,04%",
+        "Change_price_24h": " +8,78% ",
+        "Change_price_7d": " -3,69% "
+    },
+    {
+        "Name": "Wrapped Bitcoin",
+        "Tiker": "WBTC",
+        "Price_USD": "16.112,96",
+        "Market_capital": " 4,22B $ ",
+        "Volume_24": " 542,29M $ ",
+        "Volume_market": "0,30%",
+        "Change_price_24h": " -5,09% ",
+        "Change_price_7d": " -12,57% "
+    },
+    {
+        "Name": "UNUS SED LEO",
+        "Tiker": "LEO",
+        "Price_USD": "3,8624",
+        "Market_capital": " 3,69B $ ",
+        "Volume_24": " 5,04M $ ",
+        "Volume_market": "0%",
+        "Change_price_24h": " +4,54% ",
+        "Change_price_7d": " -17,42% "
+    },
+    {
+        "Name": "Chainlink",
+        "Tiker": "LINK",
+        "Price_USD": "7,05",
+        "Market_capital": " 3,58B $ ",
+        "Volume_24": " 1,06B $ ",
+        "Volume_market": "0,59%",
+        "Change_price_24h": " +8,18% ",
+        "Change_price_7d": " -7,75% "
+    },
+    {
+        "Name": "Cosmos",
+        "Tiker": "ATOM",
+        "Price_USD": "11,9527",
+        "Market_capital": " 3,54B $ ",
+        "Volume_24": " 557,07M $ ",
+        "Volume_market": "0,31%",
+        "Change_price_24h": " +12,37% ",
+        "Change_price_7d": " -10,55% "
+    },
+    {
+        "Name": "Ethereum Classic",
+        "Tiker": "ETC",
+        "Price_USD": "21,4312",
+        "Market_capital": " 3,02B $ ",
+        "Volume_24": " 827,34M $ ",
+        "Volume_market": "0,46%",
+        "Change_price_24h": " +4,54% ",
+        "Change_price_7d": " -9,34% "
+    },
+    {
+        "Name": "Stellar",
+        "Tiker": "XLM",
+        "Price_USD": "0,09674",
+        "Market_capital": " 2,54B $ ",
+        "Volume_24": " 335,24M $ ",
+        "Volume_market": "0,19%",
+        "Change_price_24h": " +6,24% ",
+        "Change_price_7d": " -9,76% "
+    },
+    {
+        "Name": "Cronos",
+        "Tiker": "CRO",
+        "Price_USD": "0,0938",
+        "Market_capital": " 2,42B $ ",
+        "Volume_24": " 140,11M $ ",
+        "Volume_market": "0,08%",
+        "Change_price_24h": " +2,01% ",
+        "Change_price_7d": " -13,89% "
+    },
+    {
+        "Name": "Monero",
+        "Tiker": "XMR",
+        "Price_USD": "130,786",
+        "Market_capital": " 2,42B $ ",
+        "Volume_24": " 197,71M $ ",
+        "Volume_market": "0,11%",
+        "Change_price_24h": " +1,92% ",
+        "Change_price_7d": " -11,25% "
+    },
+    {
+        "Name": "Algorand",
+        "Tiker": "ALGO",
+        "Price_USD": "0,3082",
+        "Market_capital": " 2,25B $ ",
+        "Volume_24": " 410,28M $ ",
+        "Volume_market": "0,23%",
+        "Change_price_24h": " +3,60% ",
+        "Change_price_7d": " -17,00% "
+    },
+    {
+        "Name": "Bitcoin Cash",
+        "Tiker": "BCH",
+        "Price_USD": "101,3",
+        "Market_capital": " 1,98B $ ",
+        "Volume_24": " 569,53M $ ",
+        "Volume_market": "0,32%",
+        "Change_price_24h": " +4,54% ",
+        "Change_price_7d": " -11,41% "
+    },
+    {
+        "Name": "NEAR Protocol",
+        "Tiker": "NEAR",
+        "Price_USD": "2,2901",
+        "Market_capital": " 1,92B $ ",
+        "Volume_24": " 387,51M $ ",
+        "Volume_market": "0,22%",
+        "Change_price_24h": " +5,98% ",
+        "Change_price_7d": " -23,62% "
+    },
+    {
+        "Name": "Bitcoin BEP2",
+        "Tiker": "BTCB",
+        "Price_USD": "15.210,19",
+        "Market_capital": " 1,87B $ ",
+        "Volume_24": " 54,46M $ ",
+        "Volume_market": "0,03%",
+        "Change_price_24h": " +3,23% ",
+        "Change_price_7d": " -12,64% "
+    },
+    {
+        "Name": "VeChain",
+        "Tiker": "VET",
+        "Price_USD": "0,02161",
+        "Market_capital": " 1,61B $ ",
+        "Volume_24": " 165,34M $ ",
+        "Volume_market": "0,09%",
+        "Change_price_24h": " +2,65% ",
+        "Change_price_7d": " -6,87% "
+    },
+    {
+        "Name": "Quant",
+        "Tiker": "QNT",
+        "Price_USD": "122,27",
+        "Market_capital": " 1,52B $ ",
+        "Volume_24": " 208,37M $ ",
+        "Volume_market": "0,12%",
+        "Change_price_24h": " +1,46% ",
+        "Change_price_7d": " -20,23% "
+    },
+    {
+        "Name": "Filecoin",
+        "Tiker": "FIL",
+        "Price_USD": "4,58",
+        "Market_capital": " 1,49B $ ",
+        "Volume_24": " 314,42M $ ",
+        "Volume_market": "0,18%",
+        "Change_price_24h": " +3,92% ",
+        "Change_price_7d": " -21,47% "
+    },
+    {
+        "Name": "Flow",
+        "Tiker": "FLOW",
+        "Price_USD": "1,331",
+        "Market_capital": " 1,41B $ ",
+        "Volume_24": " 88,25M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " +3,50% ",
+        "Change_price_7d": " -24,58% "
+    },
+    {
+        "Name": "Terra Classic",
+        "Tiker": "LUNC",
+        "Price_USD": "0,0001929",
+        "Market_capital": " 1,32B $ ",
+        "Volume_24": " 626,36M $ ",
+        "Volume_market": "0,35%",
+        "Change_price_24h": " +16,15% ",
+        "Change_price_7d": " -9,52% "
+    },
+    {
+        "Name": "Chiliz",
+        "Tiker": "CHZ",
+        "Price_USD": "0,2001",
+        "Market_capital": " 1,25B $ ",
+        "Volume_24": " 1,15B $ ",
+        "Volume_market": "0,64%",
+        "Change_price_24h": " +13,58% ",
+        "Change_price_7d": " -13,33% "
+    },
+    {
+        "Name": "OKB",
+        "Tiker": "OKB",
+        "Price_USD": "19,995",
+        "Market_capital": " 1,20B $ ",
+        "Volume_24": " 30,32M $ ",
+        "Volume_market": "0,02%",
+        "Change_price_24h": " +6,70% ",
+        "Change_price_7d": " +3,18% "
+    },
+    {
+        "Name": "Internet Computer",
+        "Tiker": "ICP",
+        "Price_USD": "4,28",
+        "Market_capital": " 1,19B $ ",
+        "Volume_24": " 81,66M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " +8,07% ",
+        "Change_price_7d": " -20,93% "
+    },
+    {
+        "Name": "Hedera",
+        "Tiker": "HBAR",
+        "Price_USD": "0,0497",
+        "Market_capital": " 1,17B $ ",
+        "Volume_24": " 85,31M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " +6,92% ",
+        "Change_price_7d": " -15,51% "
+    },
+    {
+        "Name": "MultiversX (Elrond)",
+        "Tiker": "EGLD",
+        "Price_USD": "46,65",
+        "Market_capital": " 1,13B $ ",
+        "Volume_24": " 84,60M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " +6,58% ",
+        "Change_price_7d": " -20,33% "
+    },
+    {
+        "Name": "ApeCoin",
+        "Tiker": "APE",
+        "Price_USD": "3,4661",
+        "Market_capital": " 1,09B $ ",
+        "Volume_24": " 419,72M $ ",
+        "Volume_market": "0,24%",
+        "Change_price_24h": " +4,40% ",
+        "Change_price_7d": " -19,35% "
+    },
+    {
+        "Name": "Tezos",
+        "Tiker": "XTZ",
+        "Price_USD": "1,12041",
+        "Market_capital": " 1,05B $ ",
+        "Volume_24": " 61,67M $ ",
+        "Volume_market": "0,03%",
+        "Change_price_24h": " +3,74% ",
+        "Change_price_7d": " -17,16% "
+    },
+    {
+        "Name": "The Sandbox",
+        "Tiker": "SAND",
+        "Price_USD": "0,6566",
+        "Market_capital": " 1,01B $ ",
+        "Volume_24": " 460,95M $ ",
+        "Volume_market": "0,26%",
+        "Change_price_24h": " +5,16% ",
+        "Change_price_7d": " -18,70% "
+    },
+    {
+        "Name": "Theta Network",
+        "Tiker": "THETA",
+        "Price_USD": "0,9844",
+        "Market_capital": " 1,00B $ ",
+        "Volume_24": " 72,21M $ ",
+        "Volume_market": "0,04%",
+        "Change_price_24h": " +2,89% ",
+        "Change_price_7d": " -19,84% "
+    },
+    {
+        "Name": "Huobi Token",
+        "Tiker": "HT",
+        "Price_USD": "6,2773",
+        "Market_capital": " 1,00B $ ",
+        "Volume_24": " 62,44M $ ",
+        "Volume_market": "0,04%",
+        "Change_price_24h": " +0,25% ",
+        "Change_price_7d": " -25,95% "
+    },
+    {
+        "Name": "Decentraland",
+        "Tiker": "MANA",
+        "Price_USD": "0,5212",
+        "Market_capital": " 990,23M $ ",
+        "Volume_24": " 235,27M $ ",
+        "Volume_market": "0,13%",
+        "Change_price_24h": " +1,13% ",
+        "Change_price_7d": " -17,16% "
+    },
+    {
+        "Name": "Aave",
+        "Tiker": "AAVE",
+        "Price_USD": "67",
+        "Market_capital": " 965,49M $ ",
+        "Volume_24": " 228,54M $ ",
+        "Volume_market": "0,13%",
+        "Change_price_24h": " +3,39% ",
+        "Change_price_7d": " -18,61% "
+    },
+    {
+        "Name": "Pax Dollar",
+        "Tiker": "USDP",
+        "Price_USD": "1,0127",
+        "Market_capital": " 945,81M $ ",
+        "Volume_24": " 65,91M $ ",
+        "Volume_market": "0,04%",
+        "Change_price_24h": " +1,91% ",
+        "Change_price_7d": " +0,17% "
+    },
+    {
+        "Name": "EOS",
+        "Tiker": "EOS",
+        "Price_USD": "0,9148",
+        "Market_capital": " 943,88M $ ",
+        "Volume_24": " 546,94M $ ",
+        "Volume_market": "0,31%",
+        "Change_price_24h": " +1,38% ",
+        "Change_price_7d": " -18,58% "
+    },
+    {
+        "Name": "Gemini Dollar",
+        "Tiker": "GUSD",
+        "Price_USD": "0,9948",
+        "Market_capital": " 870,00M $ ",
+        "Volume_24": " 1,91M $ ",
+        "Volume_market": "0%",
+        "Change_price_24h": " 0% ",
+        "Change_price_7d": " +0,49% "
+    },
+    {
+        "Name": "KuCoin Token",
+        "Tiker": "KCS",
+        "Price_USD": "8,441",
+        "Market_capital": " 838,12M $ ",
+        "Volume_24": " 8,63M $ ",
+        "Volume_market": "0%",
+        "Change_price_24h": " +3,51% ",
+        "Change_price_7d": " -14,75% "
+    },
+    {
+        "Name": "Maker",
+        "Tiker": "MKR",
+        "Price_USD": "829,54",
+        "Market_capital": " 820,83M $ ",
+        "Volume_24": " 91,63M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " +25,09% ",
+        "Change_price_7d": " -2,05% "
+    },
+    {
+        "Name": "TrueUSD",
+        "Tiker": "TUSD",
+        "Price_USD": "1,0084",
+        "Market_capital": " 818,65M $ ",
+        "Volume_24": " 157,81M $ ",
+        "Volume_market": "0,09%",
+        "Change_price_24h": " +0,85% ",
+        "Change_price_7d": " +0,13% "
+    },
+    {
+        "Name": "BitTorrent",
+        "Tiker": "BTTOLD",
+        "Price_USD": "0,002777",
+        "Market_capital": " 771,99M $ ",
+        "Volume_24": " 168,17K $ ",
+        "Volume_market": "0%",
+        "Change_price_24h": " 0% ",
+        "Change_price_7d": " -10,23% "
+    },
+    {
+        "Name": "Bitcoin SV",
+        "Tiker": "BSV",
+        "Price_USD": "38,55",
+        "Market_capital": " 757,29M $ ",
+        "Volume_24": " 124,49M $ ",
+        "Volume_market": "0,07%",
+        "Change_price_24h": " -0,88% ",
+        "Change_price_7d": " -16,09% "
+    },
+    {
+        "Name": "BitTorrent-New",
+        "Tiker": "BTT",
+        "Price_USD": "0,0000",
+        "Market_capital": " 716,95M $ ",
+        "Volume_24": " 33,43M $ ",
+        "Volume_market": "0,02%",
+        "Change_price_24h": " +8,70% ",
+        "Change_price_7d": " -4,97% "
+    },
+    {
+        "Name": "USDD",
+        "Tiker": "USDD",
+        "Price_USD": "0,977",
+        "Market_capital": " 706,82M $ ",
+        "Volume_24": " 95,36M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " -0,67% ",
+        "Change_price_7d": " -2,12% "
+    },
+    {
+        "Name": "Axie Infinity",
+        "Tiker": "AXS",
+        "Price_USD": "7,13",
+        "Market_capital": " 705,05M $ ",
+        "Volume_24": " 190,30M $ ",
+        "Volume_market": "0,11%",
+        "Change_price_24h": " +4,37% ",
+        "Change_price_7d": " -17,51% "
+    },
+    {
+        "Name": "Aptos",
+        "Tiker": "APT",
+        "Price_USD": "5,0572",
+        "Market_capital": " 687,51M $ ",
+        "Volume_24": " 567,75M $ ",
+        "Volume_market": "0,32%",
+        "Change_price_24h": " +19,45% ",
+        "Change_price_7d": " -27,99% "
+    },
+    {
+        "Name": "IOTA",
+        "Tiker": "MIOTA",
+        "Price_USD": "0,22852",
+        "Market_capital": " 647,14M $ ",
+        "Volume_24": " 26,26M $ ",
+        "Volume_market": "0,01%",
+        "Change_price_24h": " +6,89% ",
+        "Change_price_7d": " -9,18% "
+    },
+    {
+        "Name": "PancakeSwap",
+        "Tiker": "CAKE",
+        "Price_USD": "4,308",
+        "Market_capital": " 644,18M $ ",
+        "Volume_24": " 113,14M $ ",
+        "Volume_market": "0,06%",
+        "Change_price_24h": " +7,26% ",
+        "Change_price_7d": " -5,67% "
+    },
+    {
+        "Name": "Neutrino USD",
+        "Tiker": "USDN",
+        "Price_USD": "0,9737",
+        "Market_capital": " 624,62M $ ",
+        "Volume_24": " 6,89M $ ",
+        "Volume_market": "0%",
+        "Change_price_24h": " 0% ",
+        "Change_price_7d": " -5,53% "
+    },
+    {
+        "Name": "Zcash",
+        "Tiker": "ZEC",
+        "Price_USD": "38,39",
+        "Market_capital": " 611,74M $ ",
+        "Volume_24": " 88,68M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " +1,79% ",
+        "Change_price_7d": " -23,40% "
+    },
+    {
+        "Name": "Synthetix",
+        "Tiker": "SNX",
+        "Price_USD": "1,95",
+        "Market_capital": " 610,70M $ ",
+        "Volume_24": " 70,49M $ ",
+        "Volume_market": "0,04%",
+        "Change_price_24h": " +2,58% ",
+        "Change_price_7d": " -18,83% "
+    },
+    {
+        "Name": "eCash",
+        "Tiker": "XEC",
+        "Price_USD": "0,000031",
+        "Market_capital": " 608,62M $ ",
+        "Volume_24": " 23,40M $ ",
+        "Volume_market": "0,01%",
+        "Change_price_24h": " +1,96% ",
+        "Change_price_7d": " -15,46% "
+    },
+    {
+        "Name": "PAX Gold",
+        "Tiker": "PAXG",
+        "Price_USD": "1.739",
+        "Market_capital": " 566,05M $ ",
+        "Volume_24": " 67,63M $ ",
+        "Volume_market": "0,04%",
+        "Change_price_24h": " +1,99% ",
+        "Change_price_7d": " +7,25% "
+    },
+    {
+        "Name": "Klaytn",
+        "Tiker": "KLAY",
+        "Price_USD": "0,1933",
+        "Market_capital": " 562,51M $ ",
+        "Volume_24": " 112,06M $ ",
+        "Volume_market": "0,06%",
+        "Change_price_24h": " +14,57% ",
+        "Change_price_7d": " -22,56% "
+    },
+    {
+        "Name": "Fantom",
+        "Tiker": "FTM",
+        "Price_USD": "0,2041",
+        "Market_capital": " 534,78M $ ",
+        "Volume_24": " 189,27M $ ",
+        "Volume_market": "0,11%",
+        "Change_price_24h": " +9,72% ",
+        "Change_price_7d": " -21,14% "
+    },
+    {
+        "Name": "FTX Token",
+        "Tiker": "FTT",
+        "Price_USD": "3,5392",
+        "Market_capital": " 518,16M $ ",
+        "Volume_24": " 1,13B $ ",
+        "Volume_market": "0,63%",
+        "Change_price_24h": " -9,54% ",
+        "Change_price_7d": " -84,02% "
+    },
+    {
+        "Name": "Neo",
+        "Tiker": "NEO",
+        "Price_USD": "6,9806",
+        "Market_capital": " 502,49M $ ",
+        "Volume_24": " 62,12M $ ",
+        "Volume_market": "0,03%",
+        "Change_price_24h": " +3,20% ",
+        "Change_price_7d": " -15,32% "
+    },
+    {
+        "Name": "Trust Wallet Token",
+        "Tiker": "TWT",
+        "Price_USD": "1,163",
+        "Market_capital": " 491,23M $ ",
+        "Volume_24": " 30,78M $ ",
+        "Volume_market": "0,02%",
+        "Change_price_24h": " +6,77% ",
+        "Change_price_7d": " +0,77% "
+    },
+    {
+        "Name": "WEMIX",
+        "Tiker": "WEMIX",
+        "Price_USD": "1,5189",
+        "Market_capital": " 486,58M $ ",
+        "Volume_24": " 183,16M $ ",
+        "Volume_market": "0,10%",
+        "Change_price_24h": " +5,89% ",
+        "Change_price_7d": " +6,83% "
+    },
+    {
+        "Name": "The Graph",
+        "Tiker": "GRT",
+        "Price_USD": "0,06887",
+        "Market_capital": " 485,39M $ ",
+        "Volume_24": " 63,82M $ ",
+        "Volume_market": "0,04%",
+        "Change_price_24h": " +6,66% ",
+        "Change_price_7d": " -21,13% "
+    },
+    {
+        "Name": "EthereumPoW",
+        "Tiker": "ETHW",
+        "Price_USD": "4,3527",
+        "Market_capital": " 468,61M $ ",
+        "Volume_24": " 68,10M $ ",
+        "Volume_market": "0,04%",
+        "Change_price_24h": " +7,32% ",
+        "Change_price_7d": " -29,87% "
+    },
+    {
+        "Name": "Nexo",
+        "Tiker": "NEXO",
+        "Price_USD": "0,82",
+        "Market_capital": " 466,93M $ ",
+        "Volume_24": " 17,65M $ ",
+        "Volume_market": "0,01%",
+        "Change_price_24h": " +1,53% ",
+        "Change_price_7d": " -12,72% "
+    },
+    {
+        "Name": "Mina",
+        "Tiker": "MINA",
+        "Price_USD": "0,611",
+        "Market_capital": " 461,74M $ ",
+        "Volume_24": " 33,45M $ ",
+        "Volume_market": "0,02%",
+        "Change_price_24h": " +6,45% ",
+        "Change_price_7d": " -17,41% "
+    },
+    {
+        "Name": "GateToken",
+        "Tiker": "GT",
+        "Price_USD": "4,16",
+        "Market_capital": " 455,43M $ ",
+        "Volume_24": " 4,48M $ ",
+        "Volume_market": "0%",
+        "Change_price_24h": " +3,67% ",
+        "Change_price_7d": " -8,94% "
+    },
+    {
+        "Name": "Fei USD",
+        "Tiker": "FEI",
+        "Price_USD": "0,9699",
+        "Market_capital": " 420,48M $ ",
+        "Volume_24": " 3,92M $ ",
+        "Volume_market": "0%",
+        "Change_price_24h": " -1,47% ",
+        "Change_price_7d": " -0,34% "
+    },
+    {
+        "Name": "BinaryX",
+        "Tiker": "BNX",
+        "Price_USD": "147,2",
+        "Market_capital": " 412,66M $ ",
+        "Volume_24": " 18,74M $ ",
+        "Volume_market": "0,01%",
+        "Change_price_24h": " +3,37% ",
+        "Change_price_7d": " +1,06% "
+    },
+    {
+        "Name": "THORChain",
+        "Tiker": "RUNE",
+        "Price_USD": "1,2",
+        "Market_capital": " 406,16M $ ",
+        "Volume_24": " 87,32M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " +0,93% ",
+        "Change_price_7d": " -18,99% "
+    },
+    {
+        "Name": "Basic Attention Token",
+        "Tiker": "BAT",
+        "Price_USD": "0,26221",
+        "Market_capital": " 401,95M $ ",
+        "Volume_24": " 80,11M $ ",
+        "Volume_market": "0,04%",
+        "Change_price_24h": " +4,55% ",
+        "Change_price_7d": " -18,23% "
+    },
+    {
+        "Name": "Dash",
+        "Tiker": "DASH",
+        "Price_USD": "35,89",
+        "Market_capital": " 401,93M $ ",
+        "Volume_24": " 103,48M $ ",
+        "Volume_market": "0,06%",
+        "Change_price_24h": " +2,09% ",
+        "Change_price_7d": " -13,61% "
+    },
+    {
+        "Name": "Helium",
+        "Tiker": "HNT",
+        "Price_USD": "4,67",
+        "Market_capital": " 398,63M $ ",
+        "Volume_24": " 8,29M $ ",
+        "Volume_market": "0%",
+        "Change_price_24h": " 0% ",
+        "Change_price_7d": " -24,21% "
+    },
+    {
+        "Name": "Lido DAO",
+        "Tiker": "LDO",
+        "Price_USD": "1,186",
+        "Market_capital": " 378,75M $ ",
+        "Volume_24": " 75,37M $ ",
+        "Volume_market": "0,04%",
+        "Change_price_24h": " +10,63% ",
+        "Change_price_7d": " -21,55% "
+    },
+    {
+        "Name": "Curve DAO Token",
+        "Tiker": "CRV",
+        "Price_USD": "0,6858",
+        "Market_capital": " 373,93M $ ",
+        "Volume_24": " 149,34M $ ",
+        "Volume_market": "0,08%",
+        "Change_price_24h": " +4,78% ",
+        "Change_price_7d": " -21,64% "
+    },
+    {
+        "Name": "Enjin Coin",
+        "Tiker": "ENJ",
+        "Price_USD": "0,363",
+        "Market_capital": " 372,41M $ ",
+        "Volume_24": " 81,42M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " +3,91% ",
+        "Change_price_7d": " -15,05% "
+    },
+    {
+        "Name": "Casper",
+        "Tiker": "CSPR",
+        "Price_USD": "0,0346",
+        "Market_capital": " 366,91M $ ",
+        "Volume_24": " 19,62M $ ",
+        "Volume_market": "0,01%",
+        "Change_price_24h": " +3,28% ",
+        "Change_price_7d": " -11,39% "
+    },
+    {
+        "Name": "Loopring",
+        "Tiker": "LRC",
+        "Price_USD": "0,26615",
+        "Market_capital": " 361,58M $ ",
+        "Volume_24": " 189,34M $ ",
+        "Volume_market": "0,11%",
+        "Change_price_24h": " +11,37% ",
+        "Change_price_7d": " -0,12% "
+    },
+    {
+        "Name": "Arweave",
+        "Tiker": "AR",
+        "Price_USD": "10,39",
+        "Market_capital": " 352,39M $ ",
+        "Volume_24": " 85,39M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " +1,76% ",
+        "Change_price_7d": " -31,49% "
+    },
+    {
+        "Name": "1inch Network",
+        "Tiker": "1INCH",
+        "Price_USD": "0,554",
+        "Market_capital": " 351,41M $ ",
+        "Volume_24": " 104,31M $ ",
+        "Volume_market": "0,06%",
+        "Change_price_24h": " +4,14% ",
+        "Change_price_7d": " -7,04% "
+    },
+    {
+        "Name": "ImmutableX",
+        "Tiker": "IMX",
+        "Price_USD": "0,4822",
+        "Market_capital": " 336,37M $ ",
+        "Volume_24": " 44,66M $ ",
+        "Volume_market": "0,03%",
+        "Change_price_24h": " +7,37% ",
+        "Change_price_7d": " -17,79% "
+    },
+    {
+        "Name": "XDC Network",
+        "Tiker": "XDC",
+        "Price_USD": "0,0275",
+        "Market_capital": " 335,72M $ ",
+        "Volume_24": " 5,12M $ ",
+        "Volume_market": "0%",
+        "Change_price_24h": " -2,71% ",
+        "Change_price_7d": " -8,74% "
+    },
+    {
+        "Name": "Stacks",
+        "Tiker": "STX",
+        "Price_USD": "0,245",
+        "Market_capital": " 333,93M $ ",
+        "Volume_24": " 12,12M $ ",
+        "Volume_market": "0,01%",
+        "Change_price_24h": " +0,82% ",
+        "Change_price_7d": " -21,65% "
+    },
+    {
+        "Name": "Zilliqa",
+        "Tiker": "ZIL",
+        "Price_USD": "0,023721",
+        "Market_capital": " 329,51M $ ",
+        "Volume_24": " 97,71M $ ",
+        "Volume_market": "0,05%",
+        "Change_price_24h": " -0,81% ",
+        "Change_price_7d": " -20,09% "
+    },
+    {
+        "Name": "Decred",
+        "Tiker": "DCR",
+        "Price_USD": "22,24",
+        "Market_capital": " 324,21M $ ",
+        "Volume_24": " 5,14M $ ",
+        "Volume_market": "0%",
+        "Change_price_24h": " +2,43% ",
+        "Change_price_7d": " -17,50% "
+    },
+    {
+        "Name": "Kava",
+        "Tiker": "KAVA",
+        "Price_USD": "0,972",
+        "Market_capital": " 316,92M $ ",
+        "Volume_24": " 25,65M $ ",
+        "Volume_market": "0,01%",
+        "Change_price_24h": " -2,80% ",
+        "Change_price_7d": " -29,99% "
+    },
+    {
+        "Name": "NEM",
+        "Tiker": "XEM",
+        "Price_USD": "0,03411",
+        "Market_capital": " 313,06M $ ",
+        "Volume_24": " 15,16M $ ",
+        "Volume_market": "0,01%",
+        "Change_price_24h": " +7,24% ",
+        "Change_price_7d": " -10,71% "
+    },
+    {
+        "Name": "Holo",
+        "Tiker": "HOT",
+        "Price_USD": "0,001686",
+        "Market_capital": " 301,26M $ ",
+        "Volume_24": " 39,85M $ ",
+        "Volume_market": "0,02%",
+        "Change_price_24h": " +2,79% ",
+        "Change_price_7d": " -14,93% "
+    },
+    {
+        "Name": "Convex Finance",
+        "Tiker": "CVX",
+        "Price_USD": "4,15",
+        "Market_capital": " 299,39M $ ",
+        "Volume_24": " 17,20M $ ",
+        "Volume_market": "0,01%",
+        "Change_price_24h": " +2,77% ",
+        "Change_price_7d": " -17,54% "
+    },
+    {
+        "Name": "Ravencoin",
+        "Tiker": "RVN",
+        "Price_USD": "0,02375",
+        "Market_capital": " 289,99M $ ",
+        "Volume_24": " 37,11M $ ",
+        "Volume_market": "0,02%",
+        "Change_price_24h": " +5,70% ",
+        "Change_price_7d": " -20,23% "
+    }
+]
